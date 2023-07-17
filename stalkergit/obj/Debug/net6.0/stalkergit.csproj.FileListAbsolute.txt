@@ -1,0 +1,15 @@
+C:\Projects\c#\small\stalkergit\stalkergit\bin\Debug\net6.0\stalkergit.exe
+C:\Projects\c#\small\stalkergit\stalkergit\bin\Debug\net6.0\stalkergit.deps.json
+C:\Projects\c#\small\stalkergit\stalkergit\bin\Debug\net6.0\stalkergit.runtimeconfig.json
+C:\Projects\c#\small\stalkergit\stalkergit\bin\Debug\net6.0\stalkergit.dll
+C:\Projects\c#\small\stalkergit\stalkergit\bin\Debug\net6.0\stalkergit.pdb
+C:\Projects\c#\small\stalkergit\stalkergit\obj\Debug\net6.0\stalkergit.csproj.AssemblyReference.cache
+C:\Projects\c#\small\stalkergit\stalkergit\obj\Debug\net6.0\stalkergit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\c#\small\stalkergit\stalkergit\obj\Debug\net6.0\stalkergit.AssemblyInfoInputs.cache
+C:\Projects\c#\small\stalkergit\stalkergit\obj\Debug\net6.0\stalkergit.AssemblyInfo.cs
+C:\Projects\c#\small\stalkergit\stalkergit\obj\Debug\net6.0\stalkergit.csproj.CoreCompileInputs.cache
+C:\Projects\c#\small\stalkergit\stalkergit\obj\Debug\net6.0\stalkergit.dll
+C:\Projects\c#\small\stalkergit\stalkergit\obj\Debug\net6.0\refint\stalkergit.dll
+C:\Projects\c#\small\stalkergit\stalkergit\obj\Debug\net6.0\stalkergit.pdb
+C:\Projects\c#\small\stalkergit\stalkergit\obj\Debug\net6.0\stalkergit.genruntimeconfig.cache
+C:\Projects\c#\small\stalkergit\stalkergit\obj\Debug\net6.0\ref\stalkergit.dll
