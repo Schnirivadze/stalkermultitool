@@ -1,0 +1,2 @@
+config-path C:\Program Files (x86)\S.T.A.L.K.E.R. Shadow of Chernobyl\gamedataUE\config
+write-line-from-file true

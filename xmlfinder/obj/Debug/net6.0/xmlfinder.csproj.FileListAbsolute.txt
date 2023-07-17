@@ -1,0 +1,15 @@
+C:\Projects\c#\xmlfinder\xmlfinder\bin\Debug\net6.0\xmlfinder.exe
+C:\Projects\c#\xmlfinder\xmlfinder\bin\Debug\net6.0\xmlfinder.deps.json
+C:\Projects\c#\xmlfinder\xmlfinder\bin\Debug\net6.0\xmlfinder.runtimeconfig.json
+C:\Projects\c#\xmlfinder\xmlfinder\bin\Debug\net6.0\xmlfinder.dll
+C:\Projects\c#\xmlfinder\xmlfinder\bin\Debug\net6.0\xmlfinder.pdb
+C:\Projects\c#\xmlfinder\xmlfinder\obj\Debug\net6.0\xmlfinder.csproj.AssemblyReference.cache
+C:\Projects\c#\xmlfinder\xmlfinder\obj\Debug\net6.0\xmlfinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\c#\xmlfinder\xmlfinder\obj\Debug\net6.0\xmlfinder.AssemblyInfoInputs.cache
+C:\Projects\c#\xmlfinder\xmlfinder\obj\Debug\net6.0\xmlfinder.AssemblyInfo.cs
+C:\Projects\c#\xmlfinder\xmlfinder\obj\Debug\net6.0\xmlfinder.csproj.CoreCompileInputs.cache
+C:\Projects\c#\xmlfinder\xmlfinder\obj\Debug\net6.0\xmlfinder.dll
+C:\Projects\c#\xmlfinder\xmlfinder\obj\Debug\net6.0\refint\xmlfinder.dll
+C:\Projects\c#\xmlfinder\xmlfinder\obj\Debug\net6.0\xmlfinder.pdb
+C:\Projects\c#\xmlfinder\xmlfinder\obj\Debug\net6.0\xmlfinder.genruntimeconfig.cache
+C:\Projects\c#\xmlfinder\xmlfinder\obj\Debug\net6.0\ref\xmlfinder.dll
