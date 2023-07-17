@@ -1,0 +1,15 @@
+C:\Projects\c#\tools\stalkermultitool\FPcheck\bin\Debug\net6.0\FPcheck.exe
+C:\Projects\c#\tools\stalkermultitool\FPcheck\bin\Debug\net6.0\FPcheck.deps.json
+C:\Projects\c#\tools\stalkermultitool\FPcheck\bin\Debug\net6.0\FPcheck.runtimeconfig.json
+C:\Projects\c#\tools\stalkermultitool\FPcheck\bin\Debug\net6.0\FPcheck.dll
+C:\Projects\c#\tools\stalkermultitool\FPcheck\bin\Debug\net6.0\FPcheck.pdb
+C:\Projects\c#\tools\stalkermultitool\FPcheck\obj\Debug\net6.0\FPcheck.csproj.AssemblyReference.cache
+C:\Projects\c#\tools\stalkermultitool\FPcheck\obj\Debug\net6.0\FPcheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\c#\tools\stalkermultitool\FPcheck\obj\Debug\net6.0\FPcheck.AssemblyInfoInputs.cache
+C:\Projects\c#\tools\stalkermultitool\FPcheck\obj\Debug\net6.0\FPcheck.AssemblyInfo.cs
+C:\Projects\c#\tools\stalkermultitool\FPcheck\obj\Debug\net6.0\FPcheck.csproj.CoreCompileInputs.cache
+C:\Projects\c#\tools\stalkermultitool\FPcheck\obj\Debug\net6.0\FPcheck.dll
+C:\Projects\c#\tools\stalkermultitool\FPcheck\obj\Debug\net6.0\refint\FPcheck.dll
+C:\Projects\c#\tools\stalkermultitool\FPcheck\obj\Debug\net6.0\FPcheck.pdb
+C:\Projects\c#\tools\stalkermultitool\FPcheck\obj\Debug\net6.0\FPcheck.genruntimeconfig.cache
+C:\Projects\c#\tools\stalkermultitool\FPcheck\obj\Debug\net6.0\ref\FPcheck.dll
